@@ -1,4 +1,4 @@
 # Landing-Page
 Basic Website Landing Page 
 
-![](images/screenshot.png)
+![](images/screenshot.PNG)
